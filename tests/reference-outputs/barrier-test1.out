@@ -1,0 +1,19 @@
+b:start Process#0
+b:start Process#1
+b:start Process#2
+b:start Process#3
+b:start Process#4
+b:start Process#5
+b:start Process#6
+b:end Process#0
+b:end Process#1
+b:end Process#2
+b:end Process#3
+b:end Process#4
+Barrier: b
+  0: Process#5
+  1: Process#6
+  2: empty
+  3: empty
+  4: empty
+

@@ -1,0 +1,188 @@
+ Barrier  test 
+Time 12.9361 --- Process#1
+Time 12.9361 --- Process#2
+Time 12.9361 --- Process#3
+Time 12.9361 --- Process#4
+Time 28.8159 --- Process#5
+Time 28.8159 --- Process#6
+Time 28.8159 --- Process#7
+Time 28.8159 --- Process#8
+Time 75.3459 --- Process#9
+Time 75.3459 --- Process#10
+Time 75.3459 --- Process#11
+Time 75.3459 --- Process#12
+Time 87.0039 --- Process#13
+Time 87.0039 --- Process#14
+Time 87.0039 --- Process#15
+Time 87.0039 --- Process#16
+Time 112.67 --- Process#17
+Time 112.67 --- Process#18
+Time 112.67 --- Process#19
+Time 112.67 --- Process#20
+Time 159.507 --- Process#21
+Time 159.507 --- Process#22
+Time 159.507 --- Process#23
+Time 159.507 --- Process#24
+Time 182.45 --- Process#25
+Time 182.45 --- Process#26
+Time 182.45 --- Process#27
+Time 182.45 --- Process#28
+Time 204.123 --- Process#29
+Time 204.123 --- Process#30
+Time 204.123 --- Process#31
+Time 204.123 --- Process#32
+Time 232.38 --- Process#33
+Time 232.38 --- Process#34
+Time 232.38 --- Process#35
+Time 232.38 --- Process#36
+Time 256.461 --- Process#37
+Time 256.461 --- Process#38
+Time 256.461 --- Process#39
+Time 256.461 --- Process#40
+Time 298.95 --- Process#41
+Time 298.95 --- Process#42
+Time 298.95 --- Process#43
+Time 298.95 --- Process#44
+Time 357.764 --- Process#45
+Time 357.764 --- Process#46
+Time 357.764 --- Process#47
+Time 357.764 --- Process#48
+Time 357.764 --- Process#49
+Time 357.764 --- Process#50
+Time 357.764 --- Process#51
+Time 357.764 --- Process#52
+Time 407.916 --- Process#53
+Time 407.916 --- Process#54
+Time 407.916 --- Process#55
+Time 407.916 --- Process#56
+Time 407.916 --- Process#57
+Time 407.916 --- Process#58
+Time 407.916 --- Process#59
+Time 407.916 --- Process#60
+Time 456.519 --- Process#61
+Time 456.519 --- Process#62
+Time 456.519 --- Process#63
+Time 456.519 --- Process#64
+Time 456.519 --- Process#65
+Time 456.519 --- Process#66
+Time 456.519 --- Process#67
+Time 456.519 --- Process#68
+Time 526.89 --- Process#69
+Time 526.89 --- Process#70
+Time 526.89 --- Process#71
+Time 526.89 --- Process#72
+Time 526.89 --- Process#73
+Time 526.89 --- Process#74
+Time 526.89 --- Process#75
+Time 526.89 --- Process#76
+Time 557.44 --- Process#77
+Time 557.44 --- Process#78
+Time 557.44 --- Process#79
+Time 557.44 --- Process#80
+Time 557.44 --- Process#81
+Time 557.44 --- Process#82
+Time 557.44 --- Process#83
+Time 557.44 --- Process#84
+Time 607.616 --- Process#85
+Time 607.616 --- Process#86
+Time 607.616 --- Process#87
+Time 607.616 --- Process#88
+Time 607.616 --- Process#89
+Time 607.616 --- Process#90
+Time 607.616 --- Process#91
+Time 607.616 --- Process#92
+Time 651.323 --- Process#93
+Time 651.323 --- Process#94
+Time 651.323 --- Process#95
+Time 651.323 --- Process#96
+Time 651.323 --- Process#97
+Time 651.323 --- Process#98
+Time 651.323 --- Process#99
+Time 651.323 --- Process#100
+Time 702.932 --- Process#101
+Time 702.932 --- Process#102
+Time 702.932 --- Process#103
+Time 702.932 --- Process#104
+Time 702.932 --- Process#105
+Time 702.932 --- Process#106
+Time 702.932 --- Process#107
+Time 702.932 --- Process#108
+Time 787.522 --- Process#109
+Time 787.522 --- Process#110
+Time 787.522 --- Process#111
+Time 787.522 --- Process#112
+Time 787.522 --- Process#113
+Time 787.522 --- Process#114
+Time 787.522 --- Process#115
+Time 787.522 --- Process#116
+Time 813.971 --- Process#117
+Time 813.971 --- Process#118
+Time 813.971 --- Process#119
+Time 813.971 --- Process#120
+Time 813.971 --- Process#121
+Time 813.971 --- Process#122
+Time 813.971 --- Process#123
+Time 813.971 --- Process#124
+Time 857.04 --- Process#125
+Time 857.04 --- Process#126
+Time 857.04 --- Process#127
+Time 857.04 --- Process#128
+Time 857.04 --- Process#129
+Time 857.04 --- Process#130
+Time 857.04 --- Process#131
+Time 857.04 --- Process#132
+Time 911.376 --- Process#133
+Time 911.376 --- Process#134
+Time 911.376 --- Process#135
+Time 911.376 --- Process#136
+Time 911.376 --- Process#137
+Time 911.376 --- Process#138
+Time 911.376 --- Process#139
+Time 911.376 --- Process#140
+Time 976.982 --- Process#141
+Time 976.982 --- Process#142
+Time 976.982 --- Process#143
+Time 976.982 --- Process#144
+Time 976.982 --- Process#145
+Time 976.982 --- Process#146
+Time 976.982 --- Process#147
+Time 976.982 --- Process#148
+Barrier: B
+  0: Process#149
+  1: Process#150
+  2: Process#151
+  3: Process#152
+  4: Process#153
+  5: Process#154
+  6: empty
+  7: empty
+
++----------------------------------------------------------+
+| HISTOGRAM Total time spent in system                     |
++----------------------------------------------------------+
+| STATISTIC                                                |
++----------------------------------------------------------+
+|  Min = 10                      Max = 81.9386             |
+|  Number of records = 148                                 |
+|  Average value = 28.8582                                 |
+|  Standard deviation = 16.2137                            |
++----------------------------------------------------------+
+|    from    |     to     |     n    |   rel    |   sum    |
++------------+------------+----------+----------+----------+
+|      0.000 |     10.000 |        0 | 0.000000 | 0.000000 |
+|     10.000 |     20.000 |       49 | 0.331081 | 0.331081 |
+|     20.000 |     30.000 |       42 | 0.283784 | 0.614865 |
+|     30.000 |     40.000 |       19 | 0.128378 | 0.743243 |
+|     40.000 |     50.000 |       23 | 0.155405 | 0.898649 |
+|     50.000 |     60.000 |        7 | 0.047297 | 0.945946 |
+|     60.000 |     70.000 |        6 | 0.040541 | 0.986486 |
+|     70.000 |     80.000 |        1 | 0.006757 | 0.993243 |
+|     80.000 |     90.000 |        1 | 0.006757 | 1.000000 |
+|     90.000 |    100.000 |        0 | 0.000000 | 1.000000 |
+|    100.000 |    110.000 |        0 | 0.000000 | 1.000000 |
+|    110.000 |    120.000 |        0 | 0.000000 | 1.000000 |
+|    120.000 |    130.000 |        0 | 0.000000 | 1.000000 |
+|    130.000 |    140.000 |        0 | 0.000000 | 1.000000 |
+|    140.000 |    150.000 |        0 | 0.000000 | 1.000000 |
++------------+------------+----------+----------+----------+
+

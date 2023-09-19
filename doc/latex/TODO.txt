@@ -1,0 +1,7 @@
+
+SIMLIB/C++ documentation:
+
+- needs big update
+
+- use Tikz for images
+
